@@ -1,0 +1,25 @@
+body{
+    font-family: 'Lato', sans-serif;
+
+}
+
+.thumbnail .caption h3{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+}
+
+.thumbnail .caption p{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+}
+
+.female{
+    color: #ff0080;
+}
+
+.male{
+    color: blue;
+
+}

@@ -1,0 +1,72 @@
+body{
+    background: url(images/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato', sans-serif;
+    
+}
+html{
+    height: 100%;
+}
+
+#content{
+    text-align: center;
+    padding-top: 15%;
+    color: #fff;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+#content h1{
+    font-weight: 700;
+    font-size: 5em;
+}
+
+hr{
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2)
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #000;
+    text-decoration: none;
+}
+
+/*--About--*/
+
+#about{
+    background-image: none;
+}
+
+.me{
+    border: 12px solid palevioletred;
+    height: 100%;
+    width: 100%;
+}
+
+.header, .quote{
+    color: palevioletred;
+    font-size: 90px;
+    font-family:'Courgette', cursive;
+;
+    text-align: center;
+    padding-right: 15px;
+}
+
+.quote{
+    font-size: 20px;
+    padding: 2px 20px;
+}
+
+.blurb p{
+    font-size: 17px;
+    text-align: center;
+    color: #777
+}
